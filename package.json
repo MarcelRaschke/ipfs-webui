@@ -84,7 +84,7 @@
     "react-overlays": "^2.1.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.3",
-    "react-spring": "^8.0.27",
+    "react-spring": "^9.4.5",
     "react-test-renderer": "^16.13.1",
     "react-virtualized": "^9.21.2",
     "redux-bundler": "^26.1.0",
